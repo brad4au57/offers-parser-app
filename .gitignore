@@ -1,0 +1,9 @@
+# Ignore Python venv and cache
+venv/
+__pycache__/
+
+# Ignore downloaded PDFs
+pdfs/
+
+# Ignore VSCode settings if present
+.vscode/
