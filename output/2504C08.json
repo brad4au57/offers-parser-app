@@ -1,12 +1,443 @@
 [
   {
     "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "April 07, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Independence Of The Seas®",
+    "Departure Port": "Miami, Florida",
+    "Sail Date": "April 11, 2025",
+    "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Grandeur Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "April 13, 2025",
+    "Itinerary": "5 Night Eastern Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "April 13, 2025",
+    "Itinerary": "4 Night Okinawa Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Liberty Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "April 21, 2025",
+    "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "April 22, 2025",
+    "Itinerary": "4 Night Fukuoka Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "April 28, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Jewel Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "April 29, 2025",
+    "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "May 05, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "May 05, 2025",
+    "Itinerary": "5 Night Kagoshima & Kumamoto Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "May 10, 2025",
+    "Itinerary": "4 Night Fukuoka Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "May 14, 2025",
+    "Itinerary": "4 Night Okinawa Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "May 18, 2025",
+    "Itinerary": "5 Night Kumamoto & Kagoshima Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "May 19, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "May 27, 2025",
+    "Itinerary": "4 Night Okinawa Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Enchantment Of The Seas®",
+    "Departure Port": "Tampa, Florida",
+    "Sail Date": "May 29, 2025",
+    "Itinerary": "4 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Jewel Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "May 30, 2025",
+    "Itinerary": "3 Night Perfect Day Getaway Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "May 30, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 02, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Ovation Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 03, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "June 04, 2025",
+    "Itinerary": "4 Night Nagasaki Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 06, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Enchantment Of The Seas®",
+    "Departure Port": "Tampa, Florida",
+    "Sail Date": "June 07, 2025",
+    "Itinerary": "5 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Freedom Of The Seas®",
+    "Departure Port": "Miami, Florida",
+    "Sail Date": "June 09, 2025",
+    "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Mariner Of The Seas®",
+    "Departure Port": "Galveston, Texas",
+    "Sail Date": "June 09, 2025",
+    "Itinerary": "5 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 09, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Enchantment Of The Seas®",
+    "Departure Port": "Tampa, Florida",
+    "Sail Date": "June 12, 2025",
+    "Itinerary": "4 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Mariner Of The Seas®",
+    "Departure Port": "Galveston, Texas",
+    "Sail Date": "June 14, 2025",
+    "Itinerary": "5 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "June 15, 2025",
+    "Itinerary": "4 Night Fukuoka Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Ovation Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 17, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Independence Of The Seas®",
+    "Departure Port": "Southampton, England",
+    "Sail Date": "June 18, 2025",
+    "Itinerary": "3 Night Bruges Getaway Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "June 19, 2025",
+    "Itinerary": "5 Night Kagoshima & Nagasaki Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Jewel Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "June 20, 2025",
+    "Itinerary": "3 Night Perfect Day Getaway Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 20, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Explorer Of The Seas®",
+    "Departure Port": "Venice, Italy",
+    "Sail Date": "June 21, 2025",
+    "Itinerary": "7 Night Greece & Adriatic Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Jewel Of The Seas®",
+    "Departure Port": "Fort Lauderdale, Florida",
+    "Sail Date": "June 23, 2025",
+    "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Mariner Of The Seas®",
+    "Departure Port": "Galveston, Texas",
+    "Sail Date": "June 23, 2025",
+    "Itinerary": "5 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 23, 2025",
+    "Itinerary": "4 Night Catalina & Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Spectrum Of The Seas®",
+    "Departure Port": "Shanghai (Baoshan), China",
+    "Sail Date": "June 24, 2025",
+    "Itinerary": "5 Night Kumamoto & Nagasaki Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Ovation Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 25, 2025",
+    "Itinerary": "6 Night Cabo Overnight And Ensenada",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Enchantment Of The Seas®",
+    "Departure Port": "Tampa, Florida",
+    "Sail Date": "June 26, 2025",
+    "Itinerary": "4 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Navigator Of The Seas®",
+    "Departure Port": "Los Angeles, California",
+    "Sail Date": "June 27, 2025",
+    "Itinerary": "3 Night Ensenada Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
+    "Ship": "Enchantment Of The Seas®",
+    "Departure Port": "Tampa, Florida",
+    "Sail Date": "July 05, 2025",
+    "Itinerary": "5 Night Western Caribbean Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
+  },
+  {
+    "Offer Code": "2504C08",
     "Ship": "Mariner Of The Seas®",
     "Departure Port": "Galveston, Texas",
     "Sail Date": "July 07, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -14,8 +445,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 09, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -23,8 +455,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "July 10, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -32,8 +465,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "July 11, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -41,8 +475,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "July 14, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -50,8 +485,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "July 14, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -59,8 +495,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 15, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -68,8 +505,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 18, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -77,8 +515,9 @@
     "Departure Port": "Seward, Alaska",
     "Sail Date": "July 18, 2025",
     "Itinerary": "7night Southbound Alaska & Hubbard Glaci",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -86,8 +525,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "July 19, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -95,8 +535,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "July 21, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -104,8 +545,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 21, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -113,8 +555,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 23, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -122,8 +565,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "July 24, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -131,8 +575,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "July 25, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -140,8 +585,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "July 25, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -149,8 +595,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 25, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -158,8 +605,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "July 27, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -167,8 +615,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "July 28, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -176,8 +625,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 28, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -185,8 +635,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "July 29, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -194,8 +645,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "July 31, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -203,8 +655,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 01, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -212,8 +665,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 01, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -221,8 +675,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 01, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -230,8 +685,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 01, 2025",
     "Itinerary": "5 Night Cabo Overnight Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -239,8 +695,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 02, 2025",
     "Itinerary": "5 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -248,8 +705,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "August 03, 2025",
     "Itinerary": "7 Night Alaska Inside Passage Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -257,8 +715,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 04, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -266,8 +725,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 04, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -275,8 +735,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "August 04, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -284,8 +745,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 04, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -293,8 +755,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 06, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -302,8 +765,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 07, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -311,8 +775,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 08, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -320,8 +785,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 08, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -329,8 +795,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 08, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -338,8 +805,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 09, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -347,8 +815,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "August 09, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -356,8 +825,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 11, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -365,8 +835,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 11, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -374,8 +845,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 11, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -383,8 +855,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 11, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -392,8 +865,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 12, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -401,8 +875,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "August 14, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -410,8 +885,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 15, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -419,8 +895,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 15, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -428,8 +905,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 15, 2025",
     "Itinerary": "7 Night Cabo, Vallarta & Mazatlan Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -437,8 +915,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 16, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -446,8 +925,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 16, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -455,8 +935,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "August 17, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -464,8 +945,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "August 17, 2025",
     "Itinerary": "7 Night Alaska Inside Passage Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -473,8 +955,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 18, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -482,8 +965,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 18, 2025",
     "Itinerary": "4 Night Key West & Bahamas Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -491,8 +975,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "August 18, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -500,8 +985,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 20, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -509,17 +995,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 21, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -527,8 +1005,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "August 22, 2025",
     "Itinerary": "8 Night Eastern Caribbean & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -536,8 +1015,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 22, 2025",
     "Itinerary": "6 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -545,8 +1025,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 22, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -554,8 +1035,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "August 22, 2025",
     "Itinerary": "7night Northbound Alaska & Hubbard Glaci",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -563,8 +1045,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 23, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -572,8 +1055,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "August 23, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -581,8 +1065,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "August 24, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -590,8 +1075,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "August 25, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -599,8 +1085,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "August 25, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -608,8 +1095,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 25, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -617,8 +1105,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "August 25, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -626,8 +1115,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "August 26, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -635,8 +1125,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 03, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -644,8 +1135,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 04, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -653,8 +1145,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 05, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -662,8 +1155,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 05, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -671,8 +1165,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 05, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -680,8 +1175,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 05, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -689,8 +1185,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 06, 2025",
     "Itinerary": "5 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -698,8 +1195,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 06, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -707,8 +1205,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 06, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -716,8 +1215,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 07, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -725,8 +1225,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 07, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -734,8 +1235,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 08, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -743,8 +1245,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 08, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -752,8 +1255,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 08, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -761,8 +1265,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 08, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -770,8 +1275,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 08, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -779,8 +1285,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 09, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -788,8 +1295,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 11, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -797,8 +1305,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 11, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -806,8 +1315,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 12, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -815,8 +1325,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 12, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -824,8 +1335,9 @@
     "Departure Port": "Seward, Alaska",
     "Sail Date": "September 12, 2025",
     "Itinerary": "7night Southbound Alaska & Hubbard Glaci",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -833,8 +1345,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 12, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -842,8 +1355,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "September 13, 2025",
     "Itinerary": "6 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -851,8 +1365,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 13, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -860,8 +1375,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 13, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -869,8 +1385,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 13, 2025",
     "Itinerary": "8 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -878,8 +1395,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 13, 2025",
     "Itinerary": "5 Night Bermuda Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -887,8 +1405,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "September 14, 2025",
     "Itinerary": "5 Night Pacific Coastal Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -896,8 +1415,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "September 14, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -905,8 +1425,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 14, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -914,8 +1435,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 15, 2025",
     "Itinerary": "5 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -923,8 +1445,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 15, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -932,8 +1455,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 15, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -941,8 +1465,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 15, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -950,8 +1475,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 15, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -959,8 +1485,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 15, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -968,8 +1495,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 18, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -977,8 +1505,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 19, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -986,8 +1515,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 19, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -995,8 +1525,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 20, 2025",
     "Itinerary": "5 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1004,8 +1535,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 20, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1013,8 +1545,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 20, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1022,8 +1555,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "September 20, 2025",
     "Itinerary": "5 Night Bermuda Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1031,17 +1565,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 21, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1049,8 +1575,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "September 21, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1058,8 +1585,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 21, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1067,8 +1595,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 22, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1076,8 +1605,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 22, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1085,8 +1615,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 22, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1094,8 +1625,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 22, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1103,8 +1635,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 25, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1112,8 +1645,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 25, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1121,8 +1655,9 @@
     "Departure Port": "Seattle, Washington",
     "Sail Date": "September 26, 2025",
     "Itinerary": "7 Night Alaska Experience Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1130,8 +1665,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 26, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1139,8 +1675,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 26, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1148,8 +1685,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "September 26, 2025",
     "Itinerary": "8 Night Pacific Coastal Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1157,8 +1695,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 26, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1166,8 +1705,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "September 27, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1175,8 +1715,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 27, 2025",
     "Itinerary": "5 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1184,8 +1725,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "September 27, 2025",
     "Itinerary": "7 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1193,8 +1735,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 27, 2025",
     "Itinerary": "8 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1202,8 +1745,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 27, 2025",
     "Itinerary": "5 Night Bermuda Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1211,8 +1755,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "September 28, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1220,8 +1765,9 @@
     "Departure Port": "Cape Liberty, New Jersey",
     "Sail Date": "September 28, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1229,8 +1775,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 29, 2025",
     "Itinerary": "5 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1238,8 +1785,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "September 29, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1247,8 +1795,9 @@
     "Departure Port": "Southampton, England",
     "Sail Date": "September 29, 2025",
     "Itinerary": "5 Night Hamburg & Bruges Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1256,8 +1805,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "September 29, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1265,8 +1815,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "September 29, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1274,8 +1825,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "September 29, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1283,8 +1835,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 02, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1292,8 +1845,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 02, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1301,8 +1855,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 03, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1310,8 +1865,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 03, 2025",
     "Itinerary": "7 Night Cabo, Vallarta & Mazatlan Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1319,8 +1875,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 04, 2025",
     "Itinerary": "5 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1328,8 +1885,9 @@
     "Departure Port": "Vancouver, British Columbia",
     "Sail Date": "October 04, 2025",
     "Itinerary": "9 Night Hawaii Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1337,8 +1895,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 04, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1346,8 +1905,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 04, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1355,8 +1915,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "October 04, 2025",
     "Itinerary": "5 Night Bermuda Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1364,8 +1925,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 05, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1373,8 +1935,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 06, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1382,8 +1945,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 06, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1391,8 +1955,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 06, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1400,8 +1965,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 09, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1409,8 +1975,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 09, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1418,8 +1985,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 10, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1427,8 +1995,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 10, 2025",
     "Itinerary": "7 Night Cabo, Vallarta & Mazatlan Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1436,8 +2005,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 10, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1445,8 +2015,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 11, 2025",
     "Itinerary": "5 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1454,8 +2025,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 11, 2025",
     "Itinerary": "7 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1463,8 +2035,9 @@
     "Departure Port": "Southampton, England",
     "Sail Date": "October 11, 2025",
     "Itinerary": "5 Night Hamburg & Rotterdam Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1472,8 +2045,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 12, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1481,8 +2055,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 13, 2025",
     "Itinerary": "5 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1490,8 +2065,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 13, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1499,8 +2075,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 13, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1508,8 +2085,9 @@
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "October 13, 2025",
     "Itinerary": "4 Night Okinawa Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1517,8 +2095,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 13, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1526,8 +2105,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 16, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1535,8 +2115,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 17, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1544,8 +2125,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 17, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1553,17 +2135,9 @@
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "October 17, 2025",
     "Itinerary": "3 Night Best Of Jeju Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1571,8 +2145,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 17, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1580,8 +2155,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 18, 2025",
     "Itinerary": "5 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1589,8 +2165,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 18, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1598,8 +2175,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 18, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1607,8 +2185,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 19, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1616,8 +2195,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 20, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1625,8 +2205,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 20, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1634,8 +2215,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 20, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1643,17 +2225,19 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 20, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
     "Ship": "Spectrum Of The Seas®",
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "October 20, 2025",
-    "Itinerary": "5 Night Nagasaki & Fukuoka Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Itinerary": "5 Night Nagasaki & Fukuoka  Cruise",
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1661,8 +2245,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 20, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1670,8 +2255,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 22, 2025",
     "Itinerary": "6 Night Cabo Overnight And Ensenada",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1679,8 +2265,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 23, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1688,8 +2275,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 23, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1697,8 +2285,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 24, 2025",
     "Itinerary": "3 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1706,8 +2295,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 24, 2025",
     "Itinerary": "7 Night Cabo, Vallarta & Mazatlan Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1715,8 +2305,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 24, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1724,8 +2315,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 24, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1733,8 +2325,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "October 25, 2025",
     "Itinerary": "6 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1742,8 +2335,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 25, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1751,8 +2345,9 @@
     "Departure Port": "Boston, Massachusetts",
     "Sail Date": "October 26, 2025",
     "Itinerary": "7 Night Canada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1760,8 +2355,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 26, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1769,8 +2365,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 27, 2025",
     "Itinerary": "5 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1778,8 +2375,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 27, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1787,8 +2385,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "October 27, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1796,8 +2395,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 27, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1805,8 +2405,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 28, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1814,8 +2415,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 28, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1823,8 +2425,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "October 30, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1832,8 +2435,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 30, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1841,8 +2445,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 31, 2025",
     "Itinerary": "8 Night Ft. Lauderdale To San Juan",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1850,8 +2455,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 31, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1859,8 +2465,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 31, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1868,8 +2475,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "October 31, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1877,8 +2485,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "October 31, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1886,8 +2495,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "October 31, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1895,8 +2505,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 01, 2025",
     "Itinerary": "5 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1904,8 +2515,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 01, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1913,8 +2525,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 01, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1922,8 +2535,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 02, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1931,8 +2545,9 @@
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "November 02, 2025",
     "Itinerary": "4 Night Okinawa Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1940,8 +2555,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 03, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1949,8 +2565,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 03, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1958,8 +2575,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 03, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1967,8 +2585,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 03, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1976,8 +2595,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 06, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1985,8 +2605,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 06, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -1994,8 +2615,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 07, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2003,8 +2625,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 07, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2012,8 +2635,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 07, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2021,8 +2645,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 07, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2030,8 +2655,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 08, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2039,8 +2665,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 08, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2048,8 +2675,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 08, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2057,8 +2685,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 08, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2066,8 +2695,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "November 10, 2025",
     "Itinerary": "5 Night Eastern Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2075,17 +2705,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 10, 2025",
     "Itinerary": "5 Night Western Caribbean & Perfect Day",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2093,8 +2715,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 10, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2102,8 +2725,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 10, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2111,8 +2735,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 10, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2120,8 +2745,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 10, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2129,8 +2755,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 10, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2138,8 +2765,9 @@
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "November 11, 2025",
     "Itinerary": "4 Night Okinawa Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2147,8 +2775,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 13, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2156,8 +2785,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "November 13, 2025",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2165,8 +2795,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 14, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2174,8 +2805,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 14, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2183,8 +2815,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 14, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2192,8 +2825,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 14, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2201,8 +2835,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 15, 2025",
     "Itinerary": "5 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2210,8 +2845,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 15, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2219,8 +2855,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 15, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2228,8 +2865,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 15, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2237,8 +2875,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 15, 2025",
     "Itinerary": "8 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2246,8 +2885,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 16, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2255,8 +2895,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 17, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2264,8 +2905,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 17, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2273,8 +2915,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 17, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2282,8 +2925,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 17, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2291,8 +2935,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 17, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2300,8 +2945,9 @@
     "Departure Port": "Shanghai (Baoshan), China",
     "Sail Date": "November 19, 2025",
     "Itinerary": "4 Night Ishigaki Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2309,8 +2955,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 20, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 2 Guests"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 2 Guests",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2318,8 +2965,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 20, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2327,8 +2975,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 21, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2336,8 +2985,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "November 21, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2345,8 +2995,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 21, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2354,8 +3005,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 21, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2363,8 +3015,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 28, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2372,8 +3025,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "November 28, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2381,8 +3035,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "November 29, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2390,8 +3045,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "November 29, 2025",
     "Itinerary": "5 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2399,8 +3055,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 29, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2408,8 +3065,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 29, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2417,8 +3075,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "November 29, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2426,8 +3085,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "November 29, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2435,8 +3095,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "November 30, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2444,8 +3105,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 01, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2453,8 +3115,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 01, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2462,8 +3125,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 01, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2471,8 +3135,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 01, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2480,8 +3145,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 01, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2489,8 +3155,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "December 04, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2498,8 +3165,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "December 04, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2507,8 +3175,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 05, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2516,8 +3185,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 05, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2525,8 +3195,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 05, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2534,8 +3205,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "December 06, 2025",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2543,8 +3215,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 06, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2552,8 +3225,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 06, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2561,8 +3235,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "December 06, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2570,8 +3245,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 06, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2579,8 +3255,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "December 08, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2588,8 +3265,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 08, 2025",
     "Itinerary": "4 Night Perfect Day Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2597,17 +3275,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "December 08, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2615,8 +3285,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 08, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2624,8 +3295,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 08, 2025",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2633,8 +3305,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 11, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2642,8 +3315,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "December 11, 2025",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2651,8 +3325,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 12, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2660,8 +3335,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 12, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2669,8 +3345,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 12, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2678,8 +3355,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "December 13, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2687,8 +3365,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "December 13, 2025",
     "Itinerary": "5 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2696,8 +3375,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 13, 2025",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2705,8 +3385,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "December 13, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2714,8 +3395,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "December 13, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2723,8 +3405,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 13, 2025",
     "Itinerary": "8 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2732,8 +3415,9 @@
     "Departure Port": "San Juan, Puerto Rico",
     "Sail Date": "December 14, 2025",
     "Itinerary": "7 Night Southern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2741,8 +3425,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "December 15, 2025",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2750,8 +3435,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 15, 2025",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2759,8 +3445,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 15, 2025",
     "Itinerary": "4 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2768,8 +3455,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 15, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2777,8 +3465,9 @@
     "Departure Port": "Brisbane, Australia",
     "Sail Date": "December 16, 2025",
     "Itinerary": "4 Night Queensland Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2786,8 +3475,9 @@
     "Departure Port": "Port Canaveral, Florida",
     "Sail Date": "December 18, 2025",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2795,8 +3485,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "December 18, 2025",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2804,8 +3495,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "December 18, 2025",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2813,8 +3505,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 19, 2025",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2822,8 +3515,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "December 19, 2025",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2831,8 +3525,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "December 19, 2025",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2840,8 +3535,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 02, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2849,8 +3545,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 03, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2858,8 +3555,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "January 04, 2026",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2867,8 +3565,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 05, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2876,8 +3575,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 05, 2026",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2885,8 +3585,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 08, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2894,8 +3595,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "January 08, 2026",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2903,8 +3605,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 09, 2026",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2912,8 +3615,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 09, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2921,8 +3625,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 10, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2930,8 +3635,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "January 10, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2939,8 +3645,9 @@
     "Departure Port": "Hong Kong, China",
     "Sail Date": "January 11, 2026",
     "Itinerary": "4 Night Okinawa Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2948,8 +3655,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 12, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2957,8 +3665,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 12, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2966,8 +3675,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 12, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2975,8 +3685,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "January 13, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2984,8 +3695,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "January 13, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -2993,8 +3705,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "January 15, 2026",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3002,8 +3715,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 16, 2026",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3011,8 +3725,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "January 16, 2026",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3020,8 +3735,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 17, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3029,8 +3745,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 18, 2026",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3038,8 +3755,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 19, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3047,8 +3765,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 22, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3056,8 +3775,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 23, 2026",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3065,8 +3785,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "January 23, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3074,8 +3795,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 24, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3083,8 +3805,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 24, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3092,8 +3815,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 26, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3101,8 +3825,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 26, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3110,8 +3835,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "January 27, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3119,17 +3845,9 @@
     "Departure Port": "Galveston, Texas",
     "Sail Date": "January 29, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
-  },
-  {
-    "Offer Code": "Offer Code",
-    "Ship": "Ship",
-    "Departure Port": "Departure Port",
-    "Sail Date": "Sail Date",
-    "Itinerary": "Itinerary",
-    "Next Cruise Bonus Stateroom Type": "Next Cruise Bonus Stateroom Type",
-    "Offer Type": "Offer Type"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3137,8 +3855,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "January 30, 2026",
     "Itinerary": "3 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3146,8 +3865,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 31, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3155,8 +3875,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "January 31, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3164,8 +3885,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 02, 2026",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3173,8 +3895,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 05, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3182,8 +3905,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "February 05, 2026",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3191,8 +3915,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 07, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3200,8 +3925,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 09, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3209,8 +3935,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "February 09, 2026",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3218,8 +3945,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 10, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3227,8 +3955,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 13, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3236,8 +3965,9 @@
     "Departure Port": "Baltimore, Maryland",
     "Sail Date": "February 13, 2026",
     "Itinerary": "8 Night Southeast Coast & Bahamas",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3245,8 +3975,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 14, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3254,8 +3985,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 14, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3263,8 +3995,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 15, 2026",
     "Itinerary": "6 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3272,8 +4005,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 19, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3281,8 +4015,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "February 20, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3290,8 +4025,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 21, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3299,8 +4035,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 22, 2026",
     "Itinerary": "5 Night Cabo Overnight Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3308,8 +4045,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 23, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3317,8 +4055,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 24, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3326,8 +4065,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "February 26, 2026",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3335,8 +4075,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "February 27, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3344,8 +4085,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "February 27, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3353,8 +4095,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 28, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3362,8 +4105,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 28, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3371,8 +4115,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "February 28, 2026",
     "Itinerary": "7 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3380,8 +4125,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 02, 2026",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3389,8 +4135,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 02, 2026",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3398,8 +4145,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "March 05, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3407,8 +4155,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 06, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3416,8 +4165,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 06, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3425,8 +4175,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "March 09, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3434,8 +4185,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 09, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3443,8 +4195,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 09, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3452,8 +4205,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 10, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3461,8 +4215,9 @@
     "Departure Port": "Miami, Florida",
     "Sail Date": "March 12, 2026",
     "Itinerary": "4 Night Eastern Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3470,8 +4225,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 13, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3479,8 +4235,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "March 14, 2026",
     "Itinerary": "5 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3488,8 +4245,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 16, 2026",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3497,8 +4255,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 16, 2026",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3506,8 +4265,9 @@
     "Departure Port": "Tampa, Florida",
     "Sail Date": "March 19, 2026",
     "Itinerary": "4 Night Western Caribbean Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3515,8 +4275,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 23, 2026",
     "Itinerary": "4 Night Bahamas & Perfect Day Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3524,8 +4285,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 24, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3533,8 +4295,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 27, 2026",
     "Itinerary": "3 Night Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3542,8 +4305,9 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 27, 2026",
     "Itinerary": "3 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Interior",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3551,8 +4315,9 @@
     "Departure Port": "Los Angeles, California",
     "Sail Date": "March 30, 2026",
     "Itinerary": "4 Night Catalina & Ensenada Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   },
   {
     "Offer Code": "2504C08",
@@ -3560,7 +4325,8 @@
     "Departure Port": "Fort Lauderdale, Florida",
     "Sail Date": "March 30, 2026",
     "Itinerary": "4 Night Bahamas Getaway Cruise",
-    "Next Cruise Bonus Stateroom Type": "Oceanview",
-    "Offer Type": "Cruise Fare For 1 Guest"
+    "Stateroom Type": "",
+    "Offer Type": "Cruise Fare For 1 Guest",
+    "Next Cruise Bonus": ""
   }
 ]

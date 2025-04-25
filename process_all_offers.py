@@ -1,11 +1,9 @@
 import os
-import json
 import httpx
-import pdfplumber
-import pandas as pd
 from datetime import datetime, timedelta
+from parser_utils import extract_table_from_pdf  # ✅ Import your shared parsing function
 
-# ========== Step 1: Utilities for Filenames and Paths ==========
+# ========== Step 1: Filename and URL Generation ==========
 
 def get_next_month_ym():
     today = datetime.today()
@@ -16,10 +14,12 @@ def generate_filenames():
     ym = get_next_month_ym()
     filenames = []
 
+    # A-codes: 01-12 + 02A, 03A
     for i in range(1, 13):
         filenames.append(f"{ym}A{str(i).zfill(2)}")
     filenames += [f"{ym}A02A", f"{ym}A03A"]
 
+    # C-codes: 01-09 + 02A, 03A
     for i in range(1, 10):
         filenames.append(f"{ym}C{str(i).zfill(2)}")
     filenames += [f"{ym}C02A", f"{ym}C03A"]
@@ -56,56 +56,7 @@ def download_pdf(url, path):
         print(f"⚠️ Error downloading {os.path.basename(path)}: {e}")
         return False
 
-# ========== Step 3: Parse PDF into JSON ==========
-
-def extract_table_from_pdf(pdf_path, output_json_path):
-    all_data = []
-    headers = None
-
-    with pdfplumber.open(pdf_path) as pdf:
-        for i, page in enumerate(pdf.pages):
-            tables = page.extract_tables()
-            for table in tables:
-                df = pd.DataFrame(table).dropna(how='all')
-                if df.empty or df.shape[1] < 6:
-                    continue
-
-                if headers is None:
-                    first_row = df.iloc[0].dropna().tolist()
-                    if len(first_row) >= 6:
-                        headers = df.iloc[0].tolist()
-                        df = df[1:]
-                    else:
-                        continue
-
-                df.columns = headers
-                all_data.append(df)
-
-    if not all_data:
-        print(f"⚠️ No table data found in {os.path.basename(pdf_path)}")
-        return
-
-    combined = pd.concat(all_data, ignore_index=True)
-    raw_data = combined.to_dict(orient="records")
-
-    # Clean keys and values
-    cleaned_data = []
-    for row in raw_data:
-        cleaned_row = {}
-        for k, v in row.items():
-            key = k.strip() if isinstance(k, str) else k
-            value = v.strip() if isinstance(v, str) else v
-            if key == "" and (value == "" or value is None):
-                continue
-            cleaned_row[key] = value
-        cleaned_data.append(cleaned_row)
-
-    with open(output_json_path, 'w', encoding='utf-8') as f:
-        json.dump(cleaned_data, f, indent=2, ensure_ascii=False)
-
-    print(f"📄 Parsed JSON saved to: {os.path.basename(output_json_path)}")
-
-# ========== Step 4: Orchestrator ==========
+# ========== Step 3: Download + Parse All Files ==========
 
 def run():
     base_url = "https://www.royalcaribbean.com/content/dam/royal/resources/pdf/casino/offers/"
