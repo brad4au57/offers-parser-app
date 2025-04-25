@@ -146,7 +146,7 @@ export default function PaginatedTable({
               min={1}
               max={totalPages}
             />
-            <span className='text-sm text-gray-600'>of {totalPages} pages</span>
+            <span className='text-sm text-gray-900'>of {totalPages} pages</span>
           </form>
 
           <button

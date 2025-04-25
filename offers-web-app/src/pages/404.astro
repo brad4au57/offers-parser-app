@@ -1,54 +1,55 @@
 ---
+import Layout from '../layouts/Layout.astro';
 import '../styles/global.css';
 ---
 
-<html lang='en'>
-  <head>
-    <meta charset='UTF-8' />
-    <title>Page Not Found | Cruise Offers</title>
-  </head>
-  <body class='bg-white min-h-screen flex items-center justify-center p-4'>
-    <div class='text-center space-y-6 max-w-md'>
-      <h1 class='text-9xl text-blue-600 font-extrabold'>404</h1>
-      <h2 class='text-2xl font-semibold'>Oops! This page doesn’t exist.</h2>
-      <p class='text-lg max-w-xl'>
-        The page you're trying to visit may have been moved, deleted, or you
-        might have typed the offer code incorrectly. Try going back to the
-        homepage or checking the offer code from the table.
-      </p>
+<Layout title='Page Not Found | Cruise Offers'>
+  <div
+    class='min-h-[70vh] flex flex-col justify-center items-center space-y-6 text-center'
+  >
+    <h1 class='text-9xl font-extrabold text-amber-600'>404</h1>
+    <h2 class='text-2xl font-semibold'>Oops! This page doesn’t exist.</h2>
 
-      <p class='text-lg text-black font-semibold'>
-        Redirecting to the homepage in
-        <span id='countdown' class='text-xl text-blue-600 font-bold'>10</span> seconds...
-      </p>
+    <p class='text-gray-900 max-w-md'>
+      The page you're trying to visit may have been moved, deleted, or you might
+      have mistyped the offer code.
+      <br />
+      You'll be redirected to the homepage in <span
+        id='countdown'
+        class='font-bold text-2xl text-amber-600 animate-fade'>10</span
+      > seconds.
+    </p>
 
-      <a
-        href='/'
-        class='inline-block bg-blue-600 hover:bg-blue-500 text-white font-medium px-6 py-3 rounded-sm shadow-md transition-all transform hover:scale-105 cursor-pointer'
-      >
-        ← Back to Homepage
-      </a>
-    </div>
+    <a
+      href='/'
+      class='mt-4 inline-block bg-gray-900 hover:bg-gray-700 text-amber-400 hover:text-amber-300 font-medium px-6 py-3 rounded-sm shadow-md transition-transform transform hover:scale-105'
+    >
+      ← Back to Homepage
+    </a>
+  </div>
 
-    <!-- Countdown and redirect script -->
-    <script>
-      const countdownEl = document.getElementById('countdown');
+  <script type='module'>
+    const countdownEl = document.getElementById('countdown');
+    let timeLeft = 10;
 
-      if (countdownEl) {
-        // ✅ Check that it exists
-        let countdown = 10;
-        countdownEl.textContent = countdown.toString(); // ✅ Convert to string initially
+    function updateCountdown() {
+      if (!countdownEl) return;
 
-        const interval = setInterval(() => {
-          countdown--;
-          countdownEl.textContent = countdown.toString(); // ✅ Always set as string
+      // Restart the fade animation
+      countdownEl.classList.remove('animate-fade');
+      void countdownEl.offsetWidth; // Trigger a reflow to reset animation
+      countdownEl.classList.add('animate-fade');
 
-          if (countdown <= 0) {
-            clearInterval(interval);
-            window.location.href = '/';
-          }
-        }, 1000);
+      timeLeft--;
+      countdownEl.textContent = String(timeLeft);
+
+      if (timeLeft > 0) {
+        setTimeout(updateCountdown, 1000);
+      } else {
+        window.location.href = '/';
       }
-    </script>
-  </body>
-</html>
+    }
+
+    setTimeout(updateCountdown, 1000);
+  </script>
+</Layout>

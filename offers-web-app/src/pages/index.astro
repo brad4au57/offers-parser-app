@@ -1,4 +1,5 @@
 ---
+import Layout from '../layouts/Layout.astro';
 import '../styles/global.css';
 
 // Define the suffix-to-points mapping
@@ -14,16 +15,16 @@ const suffixToPoints: Record<string, number> = {
   '07': 1200,
 };
 
-// Get all JSON files from /src/data subfolders
+// Load all JSON files inside subfolders of /src/data
 const files = import.meta.glob('../data/**/*.json', { eager: true }) as Record<
   string,
   any
 >;
 
-// Get current year dynamically
+// Get current year
 const currentYear = new Date().getFullYear();
 
-// Helper to convert "2504" to "April"
+// Helper: Convert "2504" → "April"
 function getMonthLabel(ym: string): string {
   const month = parseInt(ym.slice(2), 10);
   return new Date(currentYear, month - 1).toLocaleString('en-US', {
@@ -35,11 +36,8 @@ function getMonthLabel(ym: string): string {
 type CruiseType = 'A' | 'C';
 type CruiseTable = Record<CruiseType, Record<number, Record<string, string>>>;
 
-// Build structured data
-const cruiseTables: CruiseTable = {
-  A: {},
-  C: {},
-};
+// Build structured tables
+const cruiseTables: CruiseTable = { A: {}, C: {} };
 
 for (const path in files) {
   const match = path.match(/\/(\d{4})([AC])(\d{2}A?|\d{2})\.json$/);
@@ -69,102 +67,102 @@ const allMonths = Array.from(
     new Date(`1 ${a} ${currentYear}`).getTime() -
     new Date(`1 ${b} ${currentYear}`).getTime()
 );
+
 const recentMonths = allMonths.slice(-2);
 
-// Define point levels in descending order
+// Define casino point tiers (highest to lowest)
 const pointLevels: number[] = [
   25000, 15000, 9000, 6500, 4000, 3000, 2000, 1500, 1200,
 ];
 ---
 
-<html lang='en'>
-  <head>
-    <meta charset='UTF-8' />
-    <title>Cruise Offers</title>
-  </head>
-  <body class='bg-white p-6'>
-    <h1 class='text-5xl font-bold mb-4'>Cruise Offers by Casino Points</h1>
+<Layout title='Cruise Offers'>
+  <h1 class='text-5xl text-center font-bold mb-4'>
+    Cruise Offers by Casino Points
+  </h1>
 
-    <div class='mb-8 text-gray-700 leading-relaxed'>
-      <p>
-        Royal Caribbean's onboard casinos offer guests the opportunity to earn
-        points through slot machines and table games. These points accumulate
-        over the course of your sailing. Once you surpass certain thresholds,
-        you're eligible for exclusive Next Cruise offers, which can include
-        complimentary cruises, onboard credits, or other perks.
-      </p>
-      <p class='mt-4'>
-        Offers are categorized based on the length of your cruise: sailings of 6
-        nights or fewer and sailings of 7 nights or more. The tables below
-        display the available offers for each category. Clicking on an offer
-        code will provide more details, allowing you to filter and sort offers
-        to find the best fit for your future cruises.
-      </p>
-    </div>
+  <div class='mb-8 text-gray-900 leading-relaxed'>
+    <p>
+      Royal Caribbean's onboard casinos offer guests the opportunity to earn
+      points through slot machines and table games. These points accumulate over
+      the course of your sailing. Once you surpass certain thresholds, you're
+      eligible for exclusive Next Cruise offers, which can include complimentary
+      cruises, onboard credits, or other perks.
+    </p>
+    <p class='mt-4'>
+      Offers are categorized based on the length of your cruise: sailings of 6
+      nights or fewer and sailings of 7 nights or more. The tables below display
+      the available offers for each category. Clicking on an offer code will
+      provide more details, allowing you to filter and sort offers to find the
+      best fit for your future cruises.
+    </p>
+  </div>
 
-    <div class='grid grid-cols-1 md:grid-cols-2 gap-8'>
-      {
-        (['A', 'C'] as const).map((type) => (
-          <div>
-            <table class='w-full table-auto border border-gray-300'>
-              <thead class='bg-gray-200'>
-                <tr>
-                  <th
-                    colspan={recentMonths.length + 1}
-                    class='px-4 py-2 text-left text-xl font-semibold bg-gray-100'
-                  >
-                    {type === 'A'
-                      ? 'Cruises 6 Nights or Fewer'
-                      : 'Cruises 7 Nights or More'}
-                  </th>
-                </tr>
-                <tr>
-                  <th class='px-4 py-2 text-center'>Casino Points Accrued</th>
-                  {recentMonths.map((month) => (
-                    <th class='px-4 py-2 text-center'>{month} Offers</th>
-                  ))}
-                </tr>
-              </thead>
-              <tbody>
-                {pointLevels.map((points) => (
-                  <tr>
-                    <td class='border px-4 py-2 font-medium text-center'>
-                      {points}
-                    </td>
-                    {recentMonths.map((month) => {
-                      const filename = cruiseTables[type][points]?.[month];
-                      return (
-                        <td class='border px-4 py-2 text-center'>
-                          {filename ? (
-                            <a
-                              href={`/details/${filename}`}
-                              class='text-blue-600 font-semibold hover:underline hover:text-blue-400 cursor-pointer'
-                            >
-                              {filename}
-                            </a>
-                          ) : (
-                            <span class='text-gray-400'>—</span>
-                          )}
-                        </td>
-                      );
-                    })}
-                  </tr>
+  <div class='grid grid-cols-1 md:grid-cols-2 gap-8'>
+    {
+      (['A', 'C'] as const).map((type) => (
+        <div>
+          <table class='w-full table-auto border border-gray-900'>
+            <thead class='bg-gray-200'>
+              <tr>
+                <th
+                  colspan={recentMonths.length + 1}
+                  class='px-4 py-2 text-left text-xl font-semibold bg-gray-900 text-amber-400'
+                >
+                  {type === 'A'
+                    ? 'Cruises 6 Nights or Fewer'
+                    : 'Cruises 7 Nights or More'}
+                </th>
+              </tr>
+              <tr>
+                <th class='px-4 py-2 text-center'>Casino Points Needed</th>
+                {recentMonths.map((month) => (
+                  <th class='px-4 py-2 text-center'>{month} Offers</th>
                 ))}
-              </tbody>
-            </table>
-          </div>
-        ))
-      }
-    </div>
+              </tr>
+            </thead>
+            <tbody>
+              {pointLevels.map((points) => (
+                <tr>
+                  <td class='border px-4 py-2 font-medium text-center'>
+                    {points}
+                  </td>
+                  {recentMonths.map((month) => {
+                    const filename = cruiseTables[type][points]?.[month];
+                    return (
+                      <td class='border px-4 py-2 text-center'>
+                        {filename ? (
+                          <a
+                            href={`/details/${filename}`}
+                            class='text-amber-600 font-semibold hover:underline hover:text-amber-400 cursor-pointer'
+                          >
+                            {filename.split('/').pop()}
+                          </a>
+                        ) : (
+                          <span class='text-gray-400'>—</span>
+                        )}
+                      </td>
+                    );
+                  })}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      ))
+    }
+  </div>
 
-    <div class='mt-10 text-center'>
-      <p class='text-gray-700'>
-        Interested in exploring past offers? Visit our <a
+  <div class='mt-10 text-center'>
+    <p class='text-gray-900'>
+      Interested in exploring past offers? Visit our <span
+        ><a
           href='/archive'
-          class='text-blue-600 hover:underline hover:text-blue-400 cursor-pointer'
-          >Offers Archive</a
-        > for more information.
-      </p>
-    </div>
-  </body>
-</html>
+          class='ml-1 text-amber-600 hover:underline hover:text-amber-400 cursor-pointer'
+        >
+          Offers Archive
+        </a></span
+      > for more information.
+    </p>
+  </div>
+</Layout>
