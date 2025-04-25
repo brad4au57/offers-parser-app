@@ -1,0 +1,54 @@
+---
+import '../styles/global.css';
+---
+
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <title>Page Not Found | Cruise Offers</title>
+  </head>
+  <body class='bg-white min-h-screen flex items-center justify-center p-4'>
+    <div class='text-center space-y-6 max-w-md'>
+      <h1 class='text-9xl text-blue-600 font-extrabold'>404</h1>
+      <h2 class='text-2xl font-semibold'>Oops! This page doesn’t exist.</h2>
+      <p class='text-lg max-w-xl'>
+        The page you're trying to visit may have been moved, deleted, or you
+        might have typed the offer code incorrectly. Try going back to the
+        homepage or checking the offer code from the table.
+      </p>
+
+      <p class='text-lg text-black font-semibold'>
+        Redirecting to the homepage in
+        <span id='countdown' class='text-xl text-blue-600 font-bold'>10</span> seconds...
+      </p>
+
+      <a
+        href='/'
+        class='inline-block bg-blue-600 hover:bg-blue-500 text-white font-medium px-6 py-3 rounded-sm shadow-md transition-all transform hover:scale-105 cursor-pointer'
+      >
+        ← Back to Homepage
+      </a>
+    </div>
+
+    <!-- Countdown and redirect script -->
+    <script>
+      const countdownEl = document.getElementById('countdown');
+
+      if (countdownEl) {
+        // ✅ Check that it exists
+        let countdown = 10;
+        countdownEl.textContent = countdown.toString(); // ✅ Convert to string initially
+
+        const interval = setInterval(() => {
+          countdown--;
+          countdownEl.textContent = countdown.toString(); // ✅ Always set as string
+
+          if (countdown <= 0) {
+            clearInterval(interval);
+            window.location.href = '/';
+          }
+        }, 1000);
+      }
+    </script>
+  </body>
+</html>

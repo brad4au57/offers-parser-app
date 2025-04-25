@@ -67,23 +67,36 @@ const { filename } = params;
 
 // Generate static paths from JSON files
 export async function getStaticPaths() {
-  const dataDir = path.resolve('./src/data');
-  const files = fs.readdirSync(dataDir);
+  const dataRoot = path.resolve('./src/data');
+  const folders = fs
+    .readdirSync(dataRoot)
+    .filter((f) => fs.statSync(path.join(dataRoot, f)).isDirectory());
 
-  const paths = files
-    .filter((file) => file.endsWith('.json'))
-    .map((file) => ({
-      params: { filename: file.replace('.json', '') },
-    }));
+  const paths: { params: { filename: string } }[] = [];
+
+  for (const folder of folders) {
+    const fullFolderPath = path.join(dataRoot, folder);
+    const files = fs
+      .readdirSync(fullFolderPath)
+      .filter((f) => f.endsWith('.json'));
+
+    for (const file of files) {
+      const filename = file.replace('.json', '');
+      paths.push({ params: { filename } });
+    }
+  }
 
   return paths;
 }
 
 // Load JSON data
-const dataModules = import.meta.glob('../../data/*.json', {
+const dataModules = import.meta.glob('../../data/**/*.json', {
   eager: true,
 }) as Record<string, { default: Record<string, string>[] }>;
-const data = dataModules[`../../data/${filename}.json`]?.default;
+const matchingKey = Object.keys(dataModules).find((key) =>
+  key.endsWith(`/${filename}.json`)
+);
+const data = matchingKey ? dataModules[matchingKey].default : null;
 
 if (!data) throw new Error(`JSON data for ${filename} not found.`);
 
@@ -113,7 +126,7 @@ const transformedData = data.map((row) => {
     <!-- Link to return to homepage -->
     <a
       href='/'
-      class='inline-flex items-center text-blue-800 hover:underline text-md mb-4'
+      class='inline-flex items-center text-blue-600 hover:underline hover:text-blue-400 cursor-pointer text-md mb-4'
     >
       ← Back to Homepage
     </a>

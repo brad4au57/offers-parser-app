@@ -14,8 +14,8 @@ const suffixToPoints: Record<string, number> = {
   '07': 1200,
 };
 
-// Get all JSON files from /src/data
-const files = import.meta.glob('../data/*.json', { eager: true }) as Record<
+// Get all JSON files from /src/data subfolders
+const files = import.meta.glob('../data/**/*.json', { eager: true }) as Record<
   string,
   any
 >;
@@ -53,15 +53,12 @@ for (const path in files) {
   const cruiseType = type as CruiseType;
 
   if (!cruiseTables[cruiseType][points]) cruiseTables[cruiseType][points] = {};
-  cruiseTables[cruiseType][points][monthLabel] = path
-    .replace('../data/', '')
-    .replace('.json', '');
+  cruiseTables[cruiseType][points][monthLabel] =
+    path.split('/').pop()?.replace('.json', '') ?? '';
 }
 
-const pointLevels: number[] = [
-  25000, 15000, 9000, 6500, 4000, 3000, 2000, 1500, 1200,
-];
-const months: string[] = Array.from(
+// Determine the two most recent months
+const allMonths = Array.from(
   new Set(
     Object.values(cruiseTables).flatMap((group) =>
       Object.values(group).flatMap((byMonth) => Object.keys(byMonth))
@@ -72,6 +69,12 @@ const months: string[] = Array.from(
     new Date(`1 ${a} ${currentYear}`).getTime() -
     new Date(`1 ${b} ${currentYear}`).getTime()
 );
+const recentMonths = allMonths.slice(-2);
+
+// Define point levels in descending order
+const pointLevels: number[] = [
+  25000, 15000, 9000, 6500, 4000, 3000, 2000, 1500, 1200,
+];
 ---
 
 <html lang='en'>
@@ -80,53 +83,64 @@ const months: string[] = Array.from(
     <title>Cruise Offers</title>
   </head>
   <body class='bg-white p-6'>
-    <h1 class='text-5xl font-bold mb-6'>Cruise Offers by Casino Points</h1>
+    <h1 class='text-5xl font-bold mb-4'>Cruise Offers by Casino Points</h1>
+
+    <div class='mb-8 text-gray-700 leading-relaxed'>
+      <p>
+        Royal Caribbean's onboard casinos offer guests the opportunity to earn
+        points through slot machines and table games. These points accumulate
+        over the course of your sailing. Once you surpass certain thresholds,
+        you're eligible for exclusive Next Cruise offers, which can include
+        complimentary cruises, onboard credits, or other perks.
+      </p>
+      <p class='mt-4'>
+        Offers are categorized based on the length of your cruise: sailings of 6
+        nights or fewer and sailings of 7 nights or more. The tables below
+        display the available offers for each category. Clicking on an offer
+        code will provide more details, allowing you to filter and sort offers
+        to find the best fit for your future cruises.
+      </p>
+    </div>
 
     <div class='grid grid-cols-1 md:grid-cols-2 gap-8'>
       {
         (['A', 'C'] as const).map((type) => (
           <div>
-            <h2 class='text-xl font-semibold mb-2'>
-              {type === 'A'
-                ? 'Cruising 6 nights or fewer'
-                : 'Cruising 7 nights or more'}
-            </h2>
             <table class='w-full table-auto border border-gray-300'>
               <thead class='bg-gray-200'>
                 <tr>
-                  <th class='px-4 py-2 text-left'>Points</th>
-                  {months.map((month) => (
-                    <th class='px-4 py-2 text-left'>{month}</th>
+                  <th
+                    colspan={recentMonths.length + 1}
+                    class='px-4 py-2 text-left text-xl font-semibold bg-gray-100'
+                  >
+                    {type === 'A'
+                      ? 'Cruises 6 Nights or Fewer'
+                      : 'Cruises 7 Nights or More'}
+                  </th>
+                </tr>
+                <tr>
+                  <th class='px-4 py-2 text-center'>Casino Points Accrued</th>
+                  {recentMonths.map((month) => (
+                    <th class='px-4 py-2 text-center'>{month} Offers</th>
                   ))}
                 </tr>
               </thead>
               <tbody>
                 {pointLevels.map((points) => (
                   <tr>
-                    <td class='border px-4 py-2 font-medium'>{points}</td>
-                    {months.map((month) => {
+                    <td class='border px-4 py-2 font-medium text-center'>
+                      {points}
+                    </td>
+                    {recentMonths.map((month) => {
                       const filename = cruiseTables[type][points]?.[month];
                       return (
                         <td class='border px-4 py-2 text-center'>
                           {filename ? (
                             <a
                               href={`/details/${filename}`}
-                              class='text-blue-600 hover:underline'
+                              class='text-blue-600 font-semibold hover:underline hover:text-blue-400 cursor-pointer'
                             >
-                              <svg
-                                class='inline w-4 h-4'
-                                fill='none'
-                                stroke='currentColor'
-                                viewBox='0 0 24 24'
-                                xmlns='http://www.w3.org/2000/svg'
-                              >
-                                <path
-                                  stroke-linecap='round'
-                                  stroke-linejoin='round'
-                                  stroke-width='2'
-                                  d='M14 3h7v7m0 0L10 21l-7-7L17 3z'
-                                />
-                              </svg>
+                              {filename}
                             </a>
                           ) : (
                             <span class='text-gray-400'>—</span>
@@ -141,6 +155,16 @@ const months: string[] = Array.from(
           </div>
         ))
       }
+    </div>
+
+    <div class='mt-10 text-center'>
+      <p class='text-gray-700'>
+        Interested in exploring past offers? Visit our <a
+          href='/archive'
+          class='text-blue-600 hover:underline hover:text-blue-400 cursor-pointer'
+          >Offers Archive</a
+        > for more information.
+      </p>
     </div>
   </body>
 </html>
