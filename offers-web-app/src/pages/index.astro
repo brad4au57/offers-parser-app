@@ -1,11 +1,146 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import '../styles/global.css';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// Define the suffix-to-points mapping
+const suffixToPoints: Record<string, number> = {
+  '01': 25000,
+  '02': 15000,
+  '02A': 9000,
+  '03': 6500,
+  '03A': 4000,
+  '04': 3000,
+  '05': 2000,
+  '06': 1500,
+  '07': 1200,
+};
+
+// Get all JSON files from /src/data
+const files = import.meta.glob('../data/*.json', { eager: true }) as Record<
+  string,
+  any
+>;
+
+// Get current year dynamically
+const currentYear = new Date().getFullYear();
+
+// Helper to convert "2504" to "April"
+function getMonthLabel(ym: string): string {
+  const month = parseInt(ym.slice(2), 10);
+  return new Date(currentYear, month - 1).toLocaleString('en-US', {
+    month: 'long',
+  });
+}
+
+// Type definitions
+type CruiseType = 'A' | 'C';
+type CruiseTable = Record<CruiseType, Record<number, Record<string, string>>>;
+
+// Build structured data
+const cruiseTables: CruiseTable = {
+  A: {},
+  C: {},
+};
+
+for (const path in files) {
+  const match = path.match(/\/(\d{4})([AC])(\d{2}A?|\d{2})\.json$/);
+  if (!match) continue;
+
+  const [, ym, type, suffix] = match;
+  const points = suffixToPoints[suffix];
+  if (!points) continue;
+
+  const monthLabel = getMonthLabel(ym);
+  const cruiseType = type as CruiseType;
+
+  if (!cruiseTables[cruiseType][points]) cruiseTables[cruiseType][points] = {};
+  cruiseTables[cruiseType][points][monthLabel] = path
+    .replace('../data/', '')
+    .replace('.json', '');
+}
+
+const pointLevels: number[] = [
+  25000, 15000, 9000, 6500, 4000, 3000, 2000, 1500, 1200,
+];
+const months: string[] = Array.from(
+  new Set(
+    Object.values(cruiseTables).flatMap((group) =>
+      Object.values(group).flatMap((byMonth) => Object.keys(byMonth))
+    )
+  )
+).sort(
+  (a, b) =>
+    new Date(`1 ${a} ${currentYear}`).getTime() -
+    new Date(`1 ${b} ${currentYear}`).getTime()
+);
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <title>Cruise Offers</title>
+  </head>
+  <body class='bg-white p-6'>
+    <h1 class='text-5xl font-bold mb-6'>Cruise Offers by Casino Points</h1>
+
+    <div class='grid grid-cols-1 md:grid-cols-2 gap-8'>
+      {
+        (['A', 'C'] as const).map((type) => (
+          <div>
+            <h2 class='text-xl font-semibold mb-2'>
+              {type === 'A'
+                ? 'Cruising 6 nights or fewer'
+                : 'Cruising 7 nights or more'}
+            </h2>
+            <table class='w-full table-auto border border-gray-300'>
+              <thead class='bg-gray-200'>
+                <tr>
+                  <th class='px-4 py-2 text-left'>Points</th>
+                  {months.map((month) => (
+                    <th class='px-4 py-2 text-left'>{month}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {pointLevels.map((points) => (
+                  <tr>
+                    <td class='border px-4 py-2 font-medium'>{points}</td>
+                    {months.map((month) => {
+                      const filename = cruiseTables[type][points]?.[month];
+                      return (
+                        <td class='border px-4 py-2 text-center'>
+                          {filename ? (
+                            <a
+                              href={`/details/${filename}`}
+                              class='text-blue-600 hover:underline'
+                            >
+                              <svg
+                                class='inline w-4 h-4'
+                                fill='none'
+                                stroke='currentColor'
+                                viewBox='0 0 24 24'
+                                xmlns='http://www.w3.org/2000/svg'
+                              >
+                                <path
+                                  stroke-linecap='round'
+                                  stroke-linejoin='round'
+                                  stroke-width='2'
+                                  d='M14 3h7v7m0 0L10 21l-7-7L17 3z'
+                                />
+                              </svg>
+                            </a>
+                          ) : (
+                            <span class='text-gray-400'>—</span>
+                          )}
+                        </td>
+                      );
+                    })}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        ))
+      }
+    </div>
+  </body>
+</html>

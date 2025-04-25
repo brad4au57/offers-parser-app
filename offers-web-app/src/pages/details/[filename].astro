@@ -1,0 +1,54 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import '../../styles/global.css';
+import PaginatedTable from '../../components/PaginatedTable';
+
+// Step 1: Required for dynamic route support
+export async function getStaticPaths() {
+  const dataDir = path.resolve('./src/data');
+  const files = fs.readdirSync(dataDir);
+
+  return files
+    .filter((file) => file.endsWith('.json'))
+    .map((file) => ({
+      params: { filename: file.replace('.json', '') },
+    }));
+}
+
+// Step 2: Use the route param to load JSON
+const { params } = Astro;
+const { filename } = params;
+
+// Glob all JSON files at build time
+const dataModules = import.meta.glob('../../data/*.json', {
+  eager: true,
+}) as Record<string, { default: Record<string, string>[] }>;
+
+// Load the one matching the route param
+const data = dataModules[`../../data/${filename}.json`]?.default;
+
+if (!data) {
+  throw new Error(`JSON data for ${filename} not found.`);
+}
+
+// Extract table headers from the first object
+const headers = Object.keys(data[0] || {});
+---
+
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <title>{filename} – Cruise Offer Details</title>
+  </head>
+  <body class='bg-white p-6'>
+    <a href='/' class='text-blue-600 hover:underline text-sm'
+      >← Back to homepage</a
+    >
+    <h1 class='text-2xl font-bold mt-4 mb-6'>Details for {filename}</h1>
+
+    <div class='overflow-x-auto'>
+      <PaginatedTable client:load data={data} headers={headers} />
+    </div>
+  </body>
+</html>
