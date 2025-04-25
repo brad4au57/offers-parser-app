@@ -1,54 +1,145 @@
 ---
 import fs from 'node:fs';
 import path from 'node:path';
-import '../../styles/global.css';
 import PaginatedTable from '../../components/PaginatedTable';
+import '../../styles/global.css';
 
-// Step 1: Required for dynamic route support
+// Mappings for ship names to classes
+const shipClassMap: Record<string, string> = {
+  // Oasis Class
+  Oasis: 'Oasis',
+  Allure: 'Oasis',
+  Harmony: 'Oasis',
+  Symphony: 'Oasis',
+  Wonder: 'Oasis',
+  Utopia: 'Oasis',
+
+  // Quantum Class (includes Quantum Ultra)
+  Odyssey: 'Quantum',
+  Spectrum: 'Quantum',
+  Quantum: 'Quantum',
+  Anthem: 'Quantum',
+  Ovation: 'Quantum',
+
+  // Icon Class
+  Icon: 'Icon',
+  Star: 'Icon',
+  Legend: 'Icon',
+
+  // Voyager Class
+  Voyager: 'Voyager',
+  Explorer: 'Voyager',
+  Adventure: 'Voyager',
+  Navigator: 'Voyager',
+  Mariner: 'Voyager',
+
+  // Freedom Class
+  Freedom: 'Freedom',
+  Liberty: 'Freedom',
+  Independence: 'Freedom',
+
+  // Radiance Class
+  Radiance: 'Radiance',
+  Brilliance: 'Radiance',
+  Serenade: 'Radiance',
+  Jewel: 'Radiance',
+
+  // Vision Class
+  Grandeur: 'Vision',
+  Rhapsody: 'Vision',
+  Enchantment: 'Vision',
+  Vision: 'Vision',
+};
+
+const classColorMap: Record<string, string> = {
+  Icon: 'bg-indigo-950 text-white',
+  Quantum: 'bg-green-600 text-white',
+  Oasis: 'bg-lime-500 text-white',
+  Freedom: 'bg-purple-900 text-white',
+  Voyager: 'bg-pink-600 text-white',
+  Radiance: 'bg-blue-600 text-white',
+  Vision: 'bg-sky-400 text-white',
+};
+
+// Load route params
+const { params } = Astro;
+const { filename } = params;
+
+// Generate static paths from JSON files
 export async function getStaticPaths() {
   const dataDir = path.resolve('./src/data');
   const files = fs.readdirSync(dataDir);
 
-  return files
+  const paths = files
     .filter((file) => file.endsWith('.json'))
     .map((file) => ({
       params: { filename: file.replace('.json', '') },
     }));
+
+  return paths;
 }
 
-// Step 2: Use the route param to load JSON
-const { params } = Astro;
-const { filename } = params;
-
-// Glob all JSON files at build time
+// Load JSON data
 const dataModules = import.meta.glob('../../data/*.json', {
   eager: true,
 }) as Record<string, { default: Record<string, string>[] }>;
-
-// Load the one matching the route param
 const data = dataModules[`../../data/${filename}.json`]?.default;
 
-if (!data) {
-  throw new Error(`JSON data for ${filename} not found.`);
-}
+if (!data) throw new Error(`JSON data for ${filename} not found.`);
 
-// Extract table headers from the first object
-const headers = Object.keys(data[0] || {});
+// Transform data
+const transformedData = data.map((row) => {
+  const shipName = row['Ship']?.split(' ')[0] ?? '';
+  return {
+    ship: row['Ship'],
+    class: shipClassMap[shipName] ?? 'Unknown',
+    port: row['Departure Port'],
+    sailDate: row['Sail Date'],
+    nights: row['Nights'],
+    destination: row['Destination'],
+    stateroom: row['Stateroom Type'],
+    offerType: row['Offer Type'],
+    nextBonus: row['Next Cruise Bonus'] ?? '',
+  };
+});
 ---
 
 <html lang='en'>
   <head>
     <meta charset='UTF-8' />
-    <title>{filename} – Cruise Offer Details</title>
+    <title>Details for {filename}</title>
   </head>
   <body class='bg-white p-6'>
-    <a href='/' class='text-blue-600 hover:underline text-sm'
-      >← Back to homepage</a
+    <!-- Link to return to homepage -->
+    <a
+      href='/'
+      class='inline-flex items-center text-blue-800 hover:underline text-md mb-4'
     >
-    <h1 class='text-2xl font-bold mt-4 mb-6'>Details for {filename}</h1>
+      ← Back to Homepage
+    </a>
+    <!-- Page heading description -->
+    <h1 class='text-2xl font-bold mt-4 mb-6'>
+      Details For Offer Code: {data[0]?.['Offer Code']}
+    </h1>
 
     <div class='overflow-x-auto'>
-      <PaginatedTable client:load data={data} headers={headers} />
+      <PaginatedTable
+        client:load
+        data={transformedData}
+        columns={[
+          { key: 'ship', label: 'Ship' },
+          { key: 'class', label: 'Class' },
+          { key: 'port', label: 'Departure Port' },
+          { key: 'sailDate', label: 'Sail Date' },
+          { key: 'nights', label: 'Nights' },
+          { key: 'destination', label: 'Destination' },
+          { key: 'stateroom', label: 'Stateroom Type' },
+          { key: 'offerType', label: 'Offer Type' },
+          { key: 'nextBonus', label: 'Bonus' },
+        ]}
+        shipClassMap={shipClassMap}
+        classColorMap={classColorMap}
+      />
     </div>
   </body>
 </html>

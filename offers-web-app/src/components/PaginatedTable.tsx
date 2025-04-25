@@ -1,11 +1,18 @@
 import React, { useState, useEffect } from 'react';
 
 type PaginatedTableProps = {
-  data: Record<string, string>[];
-  headers: string[];
+  data: any[];
+  columns: { key: string; label: string }[];
+  shipClassMap?: Record<string, string>;
+  classColorMap?: Record<string, string>;
 };
 
-export default function PaginatedTable({ data, headers }: PaginatedTableProps) {
+export default function PaginatedTable({
+  data,
+  columns,
+  shipClassMap = {},
+  classColorMap = {},
+}: PaginatedTableProps) {
   const [currentPage, setCurrentPage] = useState(1);
   const [rowsPerPage, setRowsPerPage] = useState(10);
   const [jumpToPage, setJumpToPage] = useState('');
@@ -44,12 +51,12 @@ export default function PaginatedTable({ data, headers }: PaginatedTableProps) {
         <table className='w-full border border-gray-300 text-sm'>
           <thead className='bg-gray-100'>
             <tr>
-              {headers.map((header) => (
+              {columns.map((col) => (
                 <th
-                  key={header}
+                  key={col.key}
                   className='px-3 py-2 text-left border-b border-gray-300'
                 >
-                  {header}
+                  {col.label}
                 </th>
               ))}
             </tr>
@@ -57,14 +64,45 @@ export default function PaginatedTable({ data, headers }: PaginatedTableProps) {
           <tbody>
             {currentData.map((row, i) => (
               <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                {headers.map((header) => (
-                  <td
-                    key={header}
-                    className='px-3 py-2 border-b border-gray-200'
-                  >
-                    {row[header] || '—'}
-                  </td>
-                ))}
+                {columns.map((col) => {
+                  let value = row[col.key];
+
+                  if (col.key === 'class') {
+                    const shipName = row['ship']?.split(' ')[0];
+                    const className = shipClassMap[shipName] ?? 'Unknown Class';
+                    const badgeClass =
+                      classColorMap[className] ?? 'bg-gray-300 text-white';
+                    value = (
+                      <span
+                        className={`inline-block rounded-sm px-2 py-1 text-xs font-bold ${badgeClass}`}
+                      >
+                        {className}
+                      </span>
+                    );
+                  }
+
+                  return (
+                    <td
+                      key={col.key}
+                      className='px-3 py-2 border-b border-gray-200'
+                    >
+                      {col.key === 'class' ? (
+                        <span
+                          className={`inline-block rounded-sm px-2 py-1 text-xs font-bold ${
+                            classColorMap[row[col.key]] ??
+                            'bg-gray-300 text-white'
+                          }`}
+                        >
+                          {row[col.key]}
+                        </span>
+                      ) : col.key === 'nextBonus' ? (
+                        value || '—'
+                      ) : (
+                        value
+                      )}
+                    </td>
+                  );
+                })}
               </tr>
             ))}
           </tbody>

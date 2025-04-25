@@ -1,13 +1,15 @@
 import pdfplumber
 import pandas as pd
 import json
+import re
 
 NORMALIZED_COLUMNS = [
     "Offer Code",
     "Ship",
     "Departure Port",
     "Sail Date",
-    "Itinerary",
+    "Nights",
+    "Destination",
     "Stateroom Type",
     "Offer Type",
     "Next Cruise Bonus",
@@ -35,6 +37,20 @@ def clean_row(row):
     while row and (row[-1] is None or str(row[-1]).strip() == ""):
         row = row[:-1]
     return [str(cell).strip() if cell else "" for cell in row]
+
+def clean_ship_name(name: str) -> str:
+    if not isinstance(name, str):
+        return ""
+    # Remove common symbols like ®, ™, ©
+    return re.sub(r"[®™©]", "", name).strip()
+
+def parse_itinerary(value):
+    if not value or "Night" not in value:
+        return "", value
+    parts = value.split("Night", 1)
+    nights = parts[0].strip()
+    destination = parts[1].strip()
+    return nights, destination
 
 
 def extract_table_from_pdf(pdf_path, output_json_path):
@@ -75,25 +91,41 @@ def extract_table_from_pdf(pdf_path, output_json_path):
                     print(f"⚠️ Could not assign headers on page {i + 1}: {e}")
                     continue
 
-                for col in NORMALIZED_COLUMNS:
+                # Handle column variation
+                if "Next Cruise Bonus Stateroom Type" in df.columns:
+                    df.rename(columns={"Next Cruise Bonus Stateroom Type": "Stateroom Type"}, inplace=True)
+                    df["Next Cruise Bonus"] = None  # Use None as placeholder
+
+                for col in ["Stateroom Type", "Next Cruise Bonus"]:
                     if col not in df.columns:
                         df[col] = ""
 
-                df = df[NORMALIZED_COLUMNS]
-                all_data.append(df)
+                # Now transform rows
+                records = []
+                for _, row in df.iterrows():
+                    itinerary = row.get("Itinerary", "")
+                    nights, destination = parse_itinerary(itinerary)
+
+                    record = {
+                        "Offer Code": row.get("Offer Code", ""),
+                        "Ship": clean_ship_name(row.get("Ship", "")),
+                        "Departure Port": row.get("Departure Port", ""),
+                        "Sail Date": row.get("Sail Date", ""),
+                        "Nights": nights,
+                        "Destination": destination,
+                        "Stateroom Type": row.get("Stateroom Type", ""),
+                        "Offer Type": row.get("Offer Type", ""),
+                        "Next Cruise Bonus": row.get("Next Cruise Bonus", None),
+                    }
+                    records.append(record)
+
+                all_data.extend(records)
 
     if not all_data:
         print("❌ No table data found in PDF.")
         return
 
-    combined = pd.concat(all_data, ignore_index=True)
-
-    cleaned = []
-    for row in combined.to_dict(orient="records"):
-        cleaned_row = {k: (v.strip() if isinstance(v, str) else v) for k, v in row.items()}
-        cleaned.append(cleaned_row)
-
     with open(output_json_path, "w", encoding="utf-8") as f:
-        json.dump(cleaned, f, indent=2, ensure_ascii=False)
+        json.dump(all_data, f, indent=2, ensure_ascii=False)
 
     print(f"✅ Table data extracted and saved to {output_json_path}")
