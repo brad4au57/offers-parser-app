@@ -61,13 +61,18 @@ def download_pdf(url, path):
 def run():
     base_url = "https://www.royalcaribbean.com/content/dam/royal/resources/pdf/casino/offers/"
     pdf_folder = "pdfs"
-    json_folder = "output"
+
+    # Determine current YYMM for folder structure (e.g., '2505')
+    ym = get_next_month_ym()
+
+    # Output JSON path inside your Astro app
+    json_folder = os.path.join("offers-web-app", "src", "data", ym)
 
     os.makedirs(pdf_folder, exist_ok=True)
     os.makedirs(json_folder, exist_ok=True)
 
     filenames = generate_filenames()
-    print(f"🔍 Processing {len(filenames)} file(s) for {get_next_month_ym()}...\n")
+    print(f"🔍 Processing {len(filenames)} file(s) for {ym}...\n")
 
     for name in filenames:
         pdf_path = os.path.join(pdf_folder, f"{name}.pdf")
